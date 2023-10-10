@@ -17,5 +17,5 @@ Onde:
 
 1. Realizar a carga dos arquivos CSV com novos casos e consolidar os dados de todas as cargas em um outro arquivo CSV. Os arquivos de carga contém um número indeterminado de linhas.
 2. Os arquivos consolidados gerados pelo sistema devem seguir o seguinte formato: `CodCidade;CodEstado;TotalCasos;UltimaAtualizacao`
-3. Gerar relatório de casos por ESTADO. O(A) usuário(a) irá informar o código de um estado da federação e, caso existam dados para este estado, o sistema irá gerar um relatório no formato abaixo:
+3. Gerar relatório de casos por ESTADO. O(A) usuário(a) irá informar o código de um estado da federação e, caso existam dados para este estado, o sistema irá gerar um relatório no formato abaixo: <br>
 ![image](https://github.com/daniellucena1/Analise_de_Arquivos_CSV/assets/115027219/eb19baca-4f0d-41aa-94c4-2f6bc8bd8795)
